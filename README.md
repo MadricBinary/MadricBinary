@@ -1,6 +1,6 @@
 - 👋 Hi, Welcome to @MadricBinary repository.
 - 👀 We are intrested in creating visual content API for different media organisations.
-- 🌱 We use technology like nodejs, javascript, java, dart, mysql, aws, firbase.
+- 🌱 We use technology like nodejs, javascript, java, kotlin, dart, mysql, aws, firbase.
 - 💞️ We are looking to collaborate on media generation related task.
 - 📫 Contact us : madricapp@gmail.com
 
